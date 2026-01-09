@@ -6,7 +6,7 @@ const stavke=[
 
     {naziv:"Home", link:"index.html"},
     {naziv:"About", link:"index.html"},
-    {naziv:"Dokumentacija", link:"#"},
+    {naziv:"Dokumentacija", link:"DOKUMENTACIJA.pdf"},
     { naziv:"Author", link:"author.html"}
 
 ];
@@ -191,7 +191,7 @@ const quickLinksData = {
         { text: "About Us", url: "#about" },
         { text: "Contact Us", url: "#appointment" },
         { text: "Our Services", url: "#service" },
-        { text: "DOKUMENTACIJA", url: "#" }
+        { text: "DOKUMENTACIJA", url: "DOKUMENTACIJA.pdf" }
     ]
 };
 
@@ -233,3 +233,4 @@ document.getElementById("signUpBtn").addEventListener("click", function () {
     }
 
 });
+
