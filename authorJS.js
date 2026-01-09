@@ -8,7 +8,6 @@ const stavke=[
     {naziv:"About", link:"index.html"},
     {naziv:"Dokumentacija", link:"DOKUMENTACIJA.pdf"},
     { naziv:"Author", link:"author.html"}
-
 ];
 
 let sadrzajIspis="";
