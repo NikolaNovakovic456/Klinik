@@ -472,9 +472,7 @@ const quickLinksData = {
         { text: "About Us", url: "#about" },
         { text: "Contact Us", url: "#appointment" },
         { text: "Our Services", url: "#service" },
-        { text: "DOKUMENTACIJA", url: "#" },
-        { text: "SITEMAP", url: "#" },
-        { text: "ROBOT.TXT", url: "#" }
+        { text: "DOKUMENTACIJA", url: "#" }
     ]
 };
 
@@ -514,4 +512,5 @@ document.getElementById("signUpBtn").addEventListener("click", function () {
         emailMsg.textContent="Correct email address!";
         emailMsg.style.color="green";
     }
+
 });
